@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong> Amanda!</strong>
+## 💙 Olá, meu nome é <strong> Amanda!</strong>
 
 > Sou uma estudante de Ciência da Computação e sou estagiária na Scania Latin America.
 
