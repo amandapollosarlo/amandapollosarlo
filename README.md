@@ -1,10 +1,13 @@
 ## 💙 Olá, meu nome é <strong> Amanda!</strong>
 
-> Sou uma estudante de Ciência da Computação e sou estagiária na Scania Latin America.
+### Sobre mim:
+- 🎓 Formada em Ciência da Computação pela FEI
+- 📊 Cursando MBA em Data Science & Analytics na USP
+- 💼 Associate na Falconi  
 
-💬 Meus contatos:
-- email: aamanda2003@gmail.com
-- linkedin: https://www.linkedin.com/in/amanda-pollo-sarlo/
+### Meus contatos:
+- Email: aamanda2003@gmail.com
+- Linkedin: https://www.linkedin.com/in/amanda-pollo-sarlo/
 
 ----
 
